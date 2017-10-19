@@ -1,0 +1,36 @@
+newmtl face1
+Ka 0.0 0.9 0.9
+Kd 0.0 0.9 0.9
+Ks 0.0 0.9 0.9
+illum 1
+Ns 100.0
+newmtl face2
+Ka 0.9 0.9 0.0
+Kd 0.9 0.9 0.0
+Ks 0.9 0.9 0.0
+illum 1
+Ns 100.0
+newmtl face3
+Ka 0.0 0.0 0.9
+Kd 0.0 0.0 0.9
+Ks 0.0 0.0 0.9
+illum 1
+Ns 100.0
+newmtl face4
+Ka 0.0 0.9 0.0
+Kd 0.0 0.9 0.0
+Ks 0.0 0.9 0.0
+illum 1
+Ns 100.0
+newmtl face5
+Ka 0.9 0.0 0.0
+Kd 0.9 0.0 0.0
+Ks 0.9 0.0 0.0
+illum 1
+Ns 100.0
+newmtl face6
+Ka 0.9 0.0 0.9
+Kd 0.9 0.0 0.9
+Ks 0.9 0.0 0.9
+illum 1
+Ns 100.0
